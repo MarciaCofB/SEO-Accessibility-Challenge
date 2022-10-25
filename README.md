@@ -31,6 +31,8 @@ Finding out what each bit of CSS was doing
 
 
 https://marciacofb.github.io/SEO-Accessibility-Challenge/
+ ![marciacofb github io_SEO-Accessibility-Challenge_](https://user-images.githubusercontent.com/110351787/197874870-2ca9bec6-c0b7-4727-8b42-901239fefdb2.png)
+
  
 # Contact
 
