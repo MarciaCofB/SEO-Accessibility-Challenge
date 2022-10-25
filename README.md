@@ -1,4 +1,4 @@
-#HTML CSS Git Challenge: Code Refactor (Assignment for a Front-End Web Development Bootcamp)
+# HTML CSS Git Challenge: Code Refactor (Assignment for a Front-End Web Development Bootcamp)
 
 This project is a submission for a HTML CSS refactoring challenge, the aim was to make the website more accessible. The requirements are as below:
 
