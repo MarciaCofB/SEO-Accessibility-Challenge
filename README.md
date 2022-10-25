@@ -35,8 +35,18 @@ Finding out what each bit of CSS was doing
 
 If you have any questions, please contact me at: 
  
-  Github Profile: [ ]( )  
+  Github Profile: https://github.com/MarciaCofB 
 
-  Email:  
+  Email:  marciacofiebruce@gmail.com
 
-  LinkedIn: [ ]( )
+  
+  
+ 
+
+
+### Review
+
+
+https://marciacofb.github.io/SEO-Accessibility-Challenge/
+
+https://github.com/MarciaCofB/SEO-Accessibility-Challenge
