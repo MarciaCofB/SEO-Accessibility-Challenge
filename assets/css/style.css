@@ -1,13 +1,17 @@
+/* ensures zero padding and no margin for the entire page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
+} 
 
+/* sets the background color of the enitre body of the document*/
 body {
     background-color: #d9dcd6;
 }
 
+
+/*sets a background color for the header and adds a little bit of padding, header text is set to white*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,10 +19,12 @@ header {
     color: #ffffff;
 }
 
+/*ensures the header text/list sits within the coloured header*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 
 header h1 .seo {
     color: #d9dcd6;
