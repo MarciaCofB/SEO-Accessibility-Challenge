@@ -27,6 +27,8 @@ Title elements contain a concise, descriptive title
 Making sure all the appropriate semantic HTML elements were used
 
 Finding out what each bit of CSS was doing
+
+
  
 # Things I learned
 
@@ -35,6 +37,17 @@ https://marciacofb.github.io/SEO-Accessibility-Challenge/
 
 
 ![marciacofb github io_SEO-Accessibility-Challenge](https://user-images.githubusercontent.com/110351787/197876540-06a4b955-b083-447f-ac3f-d2368781b815.png)
+
+
+
+
+
+### Review
+
+
+https://marciacofb.github.io/SEO-Accessibility-Challenge/
+
+https://github.com/MarciaCofB/SEO-Accessibility-Challenge
 
 
 
@@ -53,9 +66,4 @@ If you have any questions, please contact me at:
  
 
 
-### Review
 
-
-https://marciacofb.github.io/SEO-Accessibility-Challenge/
-
-https://github.com/MarciaCofB/SEO-Accessibility-Challenge
