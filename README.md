@@ -29,7 +29,8 @@ Finding out what each bit of CSS was doing
  
 # Things I learned
 
-*Screenshot can go here* 
+
+https://marciacofb.github.io/SEO-Accessibility-Challenge/
  
 # Contact
 
