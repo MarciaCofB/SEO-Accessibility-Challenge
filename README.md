@@ -25,6 +25,7 @@ Title elements contain a concise, descriptive title
 
 # Challenges 
 Making sure all the appropriate semantic HTML elements were used
+
 Finding out what each bit of CSS was doing
  
 # Things I learned
